@@ -90,7 +90,8 @@ Aplikasi terdiri dari dua bagian utama:
 
 ## Tautan Video Demonstrasi
 
-[ISI LINK YOUTUBE DI SINI]
+https://youtu.be/BxBWeME4iJ4?si=_2Wkn92VejrZS9Ng
+
 
 ## Struktur Halaman Pengunjung
 
